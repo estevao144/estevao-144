@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Estevão Marques</h1>
 <h3 align="center">Student frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estevo144" alt="estevo144" /></a> </p>
+<p align="left"> <a href="https://github.com/estevo144/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estevo144" alt="estevo144" /></a> </p>
 
 - 🌱 I’m currently learning **Root React, React native**
 
