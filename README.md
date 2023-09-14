@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Estevão Marques</h1>
 <h3 align="center">Student frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Root React, React native**
+- 🌱 I’m currently learning **PHP and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/estevao144/estevao144.github.io](https://github.com/estevao144/estevao144.github.io)
 
-- 💬 Ask me about **react, javaScript**
+- 💬 Ask me about **PHP, Laravel, javaScript, Jquery**
 
 - 📫 How to reach me **estevo144@gmail.com**
 - 
